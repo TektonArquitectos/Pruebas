@@ -1,0 +1,673 @@
+<!doctype html>
+<html class="no-js" lang="es">
+    <head>
+<meta charset="utf-8">
+    <!-- TemplateBeginEditable name="doctitle" -->
+    <title>Inmobiliarias en Pachuca Profesionales :: Sipachuca.com - Venta, Renta, Administración de Casas y Terrenos.</title>
+    <!-- TemplateEndEditable -->
+    <meta name="google-site-verification" content="61ZML2laXUZKO8QIL76J9nHG9ZIOcoxcHQarCD-dBRs" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+        <!-- favicon icon -->
+        <link rel="shortcut icon" href="../images/favicon.png">
+        <link rel="apple-touch-icon" href="../images/apple-touch-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="../images/apple-touch-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="../images/apple-touch-icon-114x114.png">
+        <!-- google fonts preconnect -->
+        <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <!-- style sheets and font icons  -->
+        <link rel="stylesheet" href="../css/vendors.min.css"/>
+        <link rel="stylesheet" href="../css/icon.min.css"/>
+        <link rel="stylesheet" href="../css/style.css"/>
+        <link rel="stylesheet" href="../css/responsive.css"/>
+        <link rel="stylesheet" href="../demos/real-estate/real-estate.css" />
+        <link rel="stylesheet" href="../css/movil.css" />
+    <!-- TemplateBeginEditable name="head" -->
+		
+    <!-- TemplateEndEditable -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LX0850TF31"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-LX0850TF31');
+</script>
+    </head>
+    <body data-mobile-nav-style="classic">
+      <!-- start header -->
+        <header>
+            <!-- start navigation -->
+            <nav class="navbar navbar-expand-lg header-light bg-white border-bottom border-color-extra-medium-gray header-reverse" data-header-hover="light">
+                <div class="container-fluid"> 
+                    <div class="col-auto">
+                        <a class="navbar-brand" href="../index.html">
+                            <img src="../images/demo-real-estate-logo-black.png" alt="Inmobiliaria Patricia de Butrón">
+                             
+                            
+                        </a>
+                    </div>
+                    <div class="col-auto menu-order left-nav ps-60px lg-ps-20px">
+                        <button class="navbar-toggler float-start" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-line"></span>
+                            <span class="navbar-toggler-line"></span>
+                            <span class="navbar-toggler-line"></span>
+                            <span class="navbar-toggler-line"></span>
+                        </button>
+                        <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
+                            <ul class="navbar-nav alt-font">
+                                <li class="nav-item"><a href="../index.html" class="nav-link">Inicio</a></li> 
+                                <li class="nav-item dropdown simple-dropdown">
+                                    <a href="../quienes-somos-inmobiliaria-pachuca.html" class="nav-link">Nosotros</a>
+                                    <i class="fa-solid fa-angle-down dropdown-toggle" id="navbarDropdownMenuLink5" role="button" data-bs-toggle="dropdown" aria-expanded="false"></i>
+                                    <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink5"> 
+                                        <li class="dropdown">
+                                            <a href="../quienes-somos-inmobiliaria-pachuca.html">Quienes somos</a> <!-- para evitar el vínculo: <a href="javascript:void(0);"> texto del enlace <i class="fa-solid fa-angle-right"></i></a> -->
+                                        </li>  
+                                       <li class="dropdown">
+                                            <a href="../nuestro-equipo-inmobiliaria-pachuca.html">Nuestro Equipo</a> 
+                                        </li>
+                                        <li class="dropdown">
+                                            <a href="../servicios-inmobiliarios-pachuca.html">Servicios</a> 
+                                        </li>
+										 <li class="dropdown">
+                                            <a href="../alianzas-inmobiliarias-pachuca.html">Alianzas</a> 
+                                        </li>
+										 <li class="dropdown">
+                                            <a href="../ampi-pachuca.html">A.M.P.I.</a> 
+                                        </li>
+										</ul> 
+                                </li>
+                                <li class="nav-item dropdown submenu">
+                                    <p  class="nav-link" style="margin-bottom: 0px;" data-bs-toggle="dropdown">Renta</p>
+                                    <i class="fa-solid fa-angle-down dropdown-toggle" id="navbarDropdownMenuLink1" role="button" data-bs-toggle="dropdown" aria-expanded="false"></i>
+                                    <div class="dropdown-menu submenu-content" aria-labelledby="navbarDropdownMenuLink1"> 
+                                        <div class="d-lg-flex mega-menu m-auto ps-5 pe-5 md-ps-0 md-pe-0 md-pt-15px">
+                                            <div class="row row-cols-2 row-cols-lg-5 row-cols-sm-3 w-100 mx-0 align-items-center justify-content-center">
+                                                <div class="col md-mb-30px">
+                                                    <a href="../renta-casas-pachuca.html" class="opacity-10 text-center justify-content-center flex-column d-flex">
+                                                        <span class="w-120px h-120px mb-15px mx-auto bg-white d-flex justify-content-center border-radius-100px box-shadow-large box-shadow-large-hover position-relative">
+                                                            <img src="../images/demo-real-estate-icon-home.svg" class="w-50px" alt="">
+                                                            <span class="text-uppercase alt-font fw-700 text-base-color fs-12 lh-22 bg-base-color-transparent border-radius-4px position-absolute right-minus-5px top-5px ps-10px pe-10px"><!-- #BeginLibraryItem "/Library/precio-renta-habitacional.lbi" -->$2,500 - $33,000<!-- #EndLibraryItem --></span>
+                                                        </span>
+                                                        <span class="alt-font fw-600 fs-17 text-dark-gray">Habitacional</span>
+                                                    </a>
+                                                </div>
+                                                <div class="col md-mb-30px">
+                                                    <a href="../renta-locales-oficinas-pachuca.html" class="opacity-10 text-center justify-content-center flex-column d-flex">
+                                                        <span class="w-120px h-120px mb-15px mx-auto bg-white d-flex justify-content-center border-radius-100px box-shadow-large box-shadow-large-hover position-relative">
+                                                            <img src="../images/demo-real-estate-icon-shop.svg" class="w-50px" alt="">
+                                                            <span class="text-uppercase alt-font fw-700 text-base-color fs-12 lh-22 bg-base-color-transparent border-radius-4px position-absolute right-minus-5px top-5px ps-10px pe-10px"><!-- #BeginLibraryItem "/Library/precio-renta-comercial.lbi" -->Desde $6,500<!-- #EndLibraryItem --></span>
+                                                        </span>
+                                                        <span class="alt-font fw-600 fs-17 text-dark-gray">Comercial</span>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </li>
+                                <li class="nav-item dropdown submenu">
+                                     <p  class="nav-link" style="margin-bottom: 0px;" data-bs-toggle="dropdown">Venta<span class="label bg-light-red text-red border-radius-26px">Hot</span></p>
+                                    <i class="fa-solid fa-angle-down dropdown-toggle" id="navbarDropdownMenuLink2" role="button" data-bs-toggle="dropdown" aria-expanded="false"></i>
+                                    <div class="dropdown-menu submenu-content" aria-labelledby="navbarDropdownMenuLink2"> 
+                                        <div class="d-lg-flex mega-menu m-auto ps-5 pe-5 md-ps-0 md-pe-0 md-pt-15px">
+                                            <div class="row row-cols-2 row-cols-lg-5 row-cols-sm-3 w-100 mx-0 align-items-center justify-content-center">
+                                                <div class="col md-mb-30px">
+                                                    <a href="../venta-casas-pachuca.html" class="opacity-10 text-center justify-content-center flex-column d-flex">
+                                                        <span class="w-120px h-120px mb-15px mx-auto bg-white d-flex justify-content-center border-radius-100px box-shadow-large box-shadow-large-hover position-relative">
+                                                            <img src="../images/demo-real-estate-icon-home.svg" class="w-50px" alt="">
+                                                            <span class="text-uppercase alt-font fw-700 text-base-color fs-12 lh-22 bg-base-color-transparent border-radius-4px position-absolute right-minus-5px top-5px ps-10px pe-10px"><!-- #BeginLibraryItem "/Library/precio-venta-habitacional.lbi" -->Desde $520,000<!-- #EndLibraryItem --></span>
+                                                        </span>
+                                                        <span class="alt-font fw-600 fs-17 text-dark-gray">Habitacional</span>
+                                                    </a>
+                                                </div>
+                                                <div class="col md-mb-30px">
+                                                    <a href="../venta-terrenos-pachuca.html" class="opacity-10 text-center justify-content-center flex-column d-flex">
+                                                        <span class="w-120px h-120px mb-15px mx-auto bg-white d-flex justify-content-center border-radius-100px box-shadow-large box-shadow-large-hover position-relative">
+                                                            <img src="../images/demo-real-estate-icon-terreno.svg" class="w-50px" alt="">
+                                                            <span class="text-uppercase alt-font fw-700 text-base-color fs-12 lh-22 bg-base-color-transparent border-radius-4px position-absolute right-minus-5px top-5px ps-10px pe-10px"><!-- #BeginLibraryItem "/Library/precio-venta-terrenos.lbi" -->Desde $168,000<!-- #EndLibraryItem --></span>
+                                                        </span>
+                                                        <span class="alt-font fw-600 fs-17 text-dark-gray">Terrenos</span>
+                                                    </a>
+                                                </div>
+                                                <div class="col md-mb-30px">
+                                                    <a href="../propiedades-comerciales-en-venta-pachuca.html" class="opacity-10 text-center justify-content-center flex-column d-flex">
+                                                        <span class="w-120px h-120px mb-15px mx-auto bg-white d-flex justify-content-center border-radius-100px box-shadow-large box-shadow-large-hover position-relative">
+                                                            <img src="../images/demo-real-estate-icon-shop.svg" class="w-50px" alt="">
+                                                            <span class="text-uppercase alt-font fw-700 text-base-color fs-12 lh-22 bg-base-color-transparent border-radius-4px position-absolute right-minus-5px top-5px ps-10px pe-10px"><!-- #BeginLibraryItem "/Library/precio-venta-comercial.lbi" -->Consultar<!-- #EndLibraryItem --></span>
+                                                        </span>
+                                                        <span class="alt-font fw-600 fs-17 text-dark-gray">Comercial</span>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </li>
+                                <li class="nav-item dropdown dropdown-with-icon" style="margin-right: 20px;">
+                                    <p  class="nav-link btn btn-small btn-rounded btn-base-color d-table lg-mb-15px md-mx-auto" data-bs-toggle="dropdown" style="align-self:center; font-size: 12px; font-weight: 700; color: aliceblue; padding-bottom: 10px; padding-top: 10px; margin-bottom: 0px;">Inversiones</p>
+                                  
+                                    <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink3">
+                                        <li>
+                                            <a href="../inversiones-yucatan-playa-pachuca.html"><img src="../img/inversiones/yucatan-mini.jpg" alt="Yucatán" width="148" height="148">
+                                                <div class="submenu-icon-content">
+                                                    <span>Yucatán</span>
+                                                    <p>Playa, Mérida, pueblos y otros</p>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="../inversiones-bosque-huasca-pachuca.html"><img src="../img/inversiones/bosque-mini.jpg" alt="Bosque" width="148" height="148">
+                                                <div class="submenu-icon-content">
+                                                    <span>Bosque</span>
+                                                    <p>Huasca, Omitlán, El Chico y otros</p>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="../inversiones-miami-preventa-pachuca.html"><img src="../img/inversiones/miami-mini.jpg" alt="Miami" width="148" height="148">
+                                                <div class="submenu-icon-content">
+                                                    <span>Miami</span>
+                                                    <p>Preventa de departamentos</p>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="../inversiones-a-credito-pachuca.html"><img src="../img/inversiones/credito-mini.jpg" alt="Ofertas a crédito" width="148" height="148">
+                                                <div class="submenu-icon-content">
+                                                    <span>Ofertas a crédito</span>
+                                                    <p>Facilidades de pago</p>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="../inversiones-inmobiliarias-pachuca.html" class="btn btn-guinda btn-round-edge align-self-center text-center text-white">Vistazo rápido</a>
+                                        </li>
+                                    </ul>
+                                </li>
+								<li><a href="../vende-o-renta-tu-propiedad-pachuca.html" class="btn btn-link-gradient expand btn-extra-large text-dark-gray d-table d-lg-inline-block xl-mb-15px md-mx-auto" style="text-transform: none; font-size: 18px; font-weight: 600;">Venda o Rente<span class="bg-dark-gray"></span></a></li>
+                                <li class="nav-item"><a href="../blog-inmobiliaria-pachuca.html" class="nav-link">Blog</a></li>
+                                <li class="nav-item"><a href="../contacto-inmobiliarias-pachuca.html" class="nav-link">Contacto</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-auto ms-auto ps-lg-0 d-sm-flex"> 
+                        <div class="header-icon">
+                            <div class="header-button">
+                                <a href="tel:7717120650" class="btn btn-base-color btn-small btn-round-edge btn-hover-animation-switch">
+                                    <span> 
+                                        <span class="btn-text">771 712 0650</span> 
+                                        <span class="btn-icon"><i class="feather icon-feather-phone-outgoing icon-very-small"></i></span>
+                                        <span class="btn-icon"><i class="feather icon-feather-phone-outgoing icon-very-small"></i></span>
+                                    </span>
+                                </a>
+                          </div>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+            <!-- end navigation -->
+        </header>
+        <!-- end header -->
+        <!-- start section -->
+<section class="p-0 top-space-margin banner-destacada">
+    <div class="swiper magic-cursor drag-cursor swiper-number-pagination-style-01" data-slider-options='{ "slidesPerView": 1, "loop": true, "pagination": { "el": ".swiper-number", "clickable": true }, "speed": 800, "autoplay": { "delay": 4500, "disableOnInteraction": false }, "keyboard": { "enabled": true, "onlyInViewport": true }, "effect": "slide" }' data-number-pagination="1">
+        <div class="swiper-wrapper" data-max="6">
+<!-- TemplateBeginRepeat name="banner" -->
+            <div class="swiper-slide">
+                <div class="slide-fondo"><!-- TemplateBeginEditable name="b_foto" --><img src="../img/1920x1080.png" alt="Propiedad destacada"><!-- TemplateEndEditable --></div>
+                <div class="slide-velo"></div>
+                <div class="container slide-contenido">
+                    <div class="row align-items-center h-100">
+                        <div class="col-md-8 position-relative text-white" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
+                            <span class="fs-20 d-block mb-15px slide-ubicacion"><!-- TemplateBeginEditable name="b_ubicacion" -->Colonia, Pachuca, Hgo.<!-- TemplateEndEditable --></span>
+                            <div class="alt-font fs-110 lg-fs-90 lh-90 lg-lh-80 mb-45px sm-mb-25px w-80 xs-w-100 ls-minus-2px slide-titulo"><!-- TemplateBeginEditable name="b_titulo" -->Propiedad <span class="fw-700">destacada</span><!-- TemplateEndEditable --></div>
+                            <div class="slide-botones"><!-- TemplateBeginEditable name="b_botones" --><a href="../contacto-inmobiliarias-pachuca.html" class="btn btn-white btn-large border-1 btn-round-edge btn-box-shadow me-15px">Agendar visita</a><a href="../venta-casas-pachuca.html" class="btn btn-transparent-white-light border-1 btn-large btn-round-edge fw-500">Ver detalles</a><!-- TemplateEndEditable --></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="slide-datos" data-anime='{ "translateX": [50, 0], "translateY": [0, 0], "opacity": [0,1], "duration": 600, "delay": 300, "staggervalue": 300, "easing": "easeOutQuad" }'>
+                    <div class="datos-fila">
+                        <div class="datos-iconos"><!-- TemplateBeginEditable name="b_datos" --><div><img src="../images/demo-real-estate-icon-bed.svg" alt=""><span class="alt-font fs-16 fw-500 d-block">0 Recámaras</span></div><div><img src="../images/demo-real-estate-icon-bath.svg" alt=""><span class="alt-font fs-16 fw-500 d-block">0 Baños</span></div><div><img src="../images/demo-real-estate-icon-car.svg" alt=""><span class="alt-font fs-16 fw-500 d-block">0 Autos</span></div><!-- TemplateEndEditable --></div>
+                        <div class="slide-precio"><!-- TemplateBeginEditable name="b_precio" --><span class="fw-500 mb-5px d-block alt-font">Precio de venta</span><h4 class="text-dark-gray fw-700 alt-font mb-0 ls-minus-1px">$0</h4><!-- TemplateEndEditable --></div>
+                    </div>
+                </div>
+            </div>
+<!-- TemplateEndRepeat -->
+        </div>
+        <div class="container"><div class="row g-0"><div class="col-12 position-relative">
+            <div class="swiper-pagination left-0 text-start swiper-pagination-clickable swiper-number fs-14 alt-font ls-05px"></div>
+        </div></div></div>
+    </div>
+</section>
+<!-- end section -->
+<!-- start section -->
+<section>
+            <div class="container">
+				<!-- start sticky -->
+        <div class="sticky-wrap d-lg-inline-block" style="top:90%; left: 35px;" data-animation-delay="100" data-shadow-animation="true">
+          
+			<a href="https://wa.me/527717120650?text=hola%20estoy%20viendo%20su%20p%C3%A1gina" target="_blank" class="btn btn-big btn-rounded with-rounded d-table d-lg-inline-block"><span class="bg-base-color text-white"><i class="fa-brands fa-whatsapp" style="font-size: x-large;"></i></span></a>
+        </div>
+        <!-- end sticky -->
+                <div class="row align-items-center justify-content-center">
+                    <div class="col-lg-6 md-mb-50px position-relative" data-anime='{ "effect": "slide", "color": "#262b35", "direction":"lr", "easing": "easeOutQuad", "delay":50}'>
+                        <figure class="position-relative mb-0 overflow-hidden border-radius-6px"> 
+                            <img src="../img/nosotros/experiencia-servicios.jpg" alt="Asesoría inmobiliaria profesional en Pachuca" class="w-100"> 
+                            <figcaption class="position-absolute border-radius-left-8px bg-base-color right-0px bottom-0px p-45px last-paragraph-no-margin">
+                                <i class="feather icon-feather-home icon-medium text-white mb-15px d-block"></i>
+                              <h4 class="alt-font fw-700 text-white mb-0 d-block">+ de 230</h4>
+                                <p class="text-white">Propiedades en <br>
+administración mensual&nbsp;</p>
+                            </figcaption>
+                        </figure>
+                    </div>
+                    <div class="col-xl-5 offset-xl-1 col-lg-6" data-anime='{ "opacity": [0,1], "duration": 1200, "delay": 100, "staggervalue": 150, "easing": "easeOutQuad" }'>
+                        <span class="fs-20 d-inline-block mb-15px textorojo">Promoción Fuerte y Efectiva en Internet</span> 
+                        <h2 class="alt-font fw-500 text-dark-gray ls-minus-1px shadow-none sm-w-85" data-shadow-animation="true" data-animation-delay="700">Experiencia y Profesionalismo en <span class="fw-700 text-highlight">Servicios Inmobiliarios<span class="bg-base-color h-10px bottom-10px opacity-3 separator-animation"></span></span></h2> 
+                        <p class="w-80 md-w-100">Le ofrecemos una promoción robusta en internet. Publicamos su propiedad en nuestro sitio web, que recibe más de 5,000 visitas mensuales y se posiciona en la primera página de Google. Además, su propiedad aparecerá en los <strong>portales inmobiliarios más importantes, incluyendo servicios de pago y redes sociales, sin que usted tenga que realizar ninguna inversión.</strong><br>
+Tenemos la mejor promoción para vender o rentar</p>
+                        <div class="mb-35px">
+                            <!-- start features box item -->
+                            <div class="icon-with-text-style-08 mb-10px">
+                                <div class="feature-box feature-box-left-icon-middle overflow-hidden">
+                                    <div class="feature-box-icon feature-box-icon-rounded w-40px h-40px bg-base-color-transparent rounded-circle me-15px">
+                                        <i class="fa-solid fa-check fs-14 text-base-color"></i> 
+                                    </div>
+                                    <div class="feature-box-content"> 
+                                        <span class="text-dark-gray">Nos respaldan m&aacute;s de 30 a&ntilde;os de experiencia</span>.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- end features box item -->
+                            <!-- start features box item -->
+                            <div class="icon-with-text-style-08">
+                                <div class="feature-box feature-box-left-icon-middle overflow-hidden">
+                                    <div class="feature-box-icon feature-box-icon-rounded w-40px h-40px bg-base-color-transparent rounded-circle me-15px">
+                                        <i class="fa-solid fa-check fs-14 text-base-color"></i> 
+                                    </div>
+                                    <div class="feature-box-content"> 
+                                        <span class="text-dark-gray">+ de 5,000 Familias han confiado en nuestra agencia.</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- end features box item -->
+                        </div>
+                        <div class="d-inline-block">
+                            <a href="../contacto-inmobiliarias-pachuca.html" class="btn btn-guinda btn-medium btn-round-edge me-25px">Contáctenos <i class="fa-brands fa-whatsapp"></i></a> 
+                            <a href="../quienes-somos-inmobiliaria-pachuca.html" class="btn btn-large btn-link btn-hover-animation-switch text-dark-gray p-0">
+                                <span>
+                                    <span class="btn-text">Más sobre nosotros</span>
+                                    <span class="btn-icon"><i class="feather icon-feather-arrow-right"></i></span>
+                                    <span class="btn-icon"><i class="feather icon-feather-arrow-right"></i></span>
+                                </span> 
+                            </a>
+                        </div>
+                    </div> 
+                </div>
+            </div>
+        </section>
+<!-- end section -->
+<!-- start section -->
+<section class="bg-beige" style="padding-bottom: 0px;">
+            <div class="container ">
+                <div class="row align-items-center justify-content-center mb-7"> 
+                    <div class="col-lg-5 md-mb-50px" data-anime='{ "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
+                        <span class="fs-20 d-inline-block mb-15px text-base-color">Renta y Administración Profesional de Inmuebles</span> 
+                        <h3 class="alt-font fw-500 text-dark-gray ls-minus-1px shadow-none" data-shadow-animation="true" data-animation-delay="700">Reciba su renta <span class="fw-700 text-highlight d-inline-block">Sin preocupaciones<span class="bg-base-color h-10px bottom-1px opacity-3 separator-animation"></span></span></h3> 
+                        <div class="mt-50px mb-50px sm-mt-40px sm-mb-40px">
+                            <!-- start features box item -->
+                            <div class="icon-with-text-style-08 mb-30px">
+                                <div class="feature-box feature-box-left-icon overflow-hidden">
+                                    
+                                    <div class="feature-box-content last-paragraph-no-margin">
+                                        <span class="text-dark-gray fs-19 alt-font mb-5px fw-600 d-block">Priorizamos la calidad sobre la cantidad</span>
+                                        <p class="w-80 lg-w-100">Tenemos altos estándares de confiabilidad, responsabilidad y seguridad.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- end features box item -->
+                            <!-- start features box item -->
+                            <div class="icon-with-text-style-08">
+                                <div class="feature-box feature-box-left-icon overflow-hidden">
+                                    <div class="feature-box-icon">
+                                        <img src="../img/nosotros/pb.png" class="w-80px" alt="PB - Patricia de Butrón" width="80" height="80" style="background:#842a36;border-radius:50%;padding:14px;box-sizing:border-box;">
+                                    </div>
+                                    <div class="feature-box-content last-paragraph-no-margin">
+                                        <span class="text-dark-gray fs-19 alt-font mb-5px fw-600 d-block">¡No le rentamos a cualquiera!</span>
+                                        <p class="w-80 lg-w-100">Evaluamos rigurosamente para seleccionar a los inquilinos más adecuados y mantener la integridad de su propiedad</p>
+                                    </div>
+                                </div>
+                            </div>
+							<div class="feature-box-content last-paragraph-no-margin">
+                                        <span class="text-dark-gray fs-19 alt-font mb-5px fw-600 d-block"></span>
+                                        <p class="w-80 lg-w-100">Agendemos una cita para conocer su propiedad (No le genera compromiso alguno)</p>
+                                    </div>
+                            <!-- end features box item -->
+                        </div>
+                        <div class="d-inline-block">
+                            <a href="../contacto-inmobiliarias-pachuca.html" class="btn btn-guinda btn-medium btn-round-edge me-15px xs-mb-10px"><i class="fa-brands fa-whatsapp"></i>  Agendar</a> 
+                            <a href="../servicios-inmobiliarios-pachuca.html" class="btn btn-medium btn-round-edge btn-transparent-light-gray border-1 fw-700 xs-mb-10px">Saber Más  <i class="feather icon-feather-arrow-right"></i></a>
+                        </div>
+                    </div> 
+                    <div class="col-lg-6 offset-lg-1 position-relative" data-anime='{ "effect": "slide", "color": "#262b35", "direction":"lr", "easing": "easeOutQuad", "delay":50}'>
+                        <!-- start popup video -->
+                        <figure class="position-relative mb-0 border-radius-6px overflow-hidden"> 
+                            <img src="../img/800x786.png" class="w-100 border-radius-6px" alt="">
+                            <a href="https://www.youtube.com/watch?v=cfXHhfNy7tU" class="absolute-middle-center text-center rounded-circle video-icon-box video-icon-large popup-vimeo">
+                                <span>
+                                    <span class="video-icon bg-white">
+                                        <i class="fa-solid fa-play text-dark-gray"></i>
+                                        <span class="video-icon-sonar">
+                                            <span class="video-icon-sonar-bfr border border-color-white"></span>
+                                        </span>
+                                    </span>
+                                </span>
+                            </a>
+                        </figure>
+                        <!-- end popup video -->
+                    </div>
+                </div>
+                <div class="row justify-content-center" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
+                    <div class="col-auto icon-with-text-style-08">
+                        <div class="feature-box feature-box-left-icon-middle">
+                            <div class="feature-box-icon me-10px">
+                                
+                            </div>
+                             <div class="feature-box-content alt-font text-dark-gray fs-22 fw-600">
+                                Además: Renovaciones de contrato a un <span class="text-decoration-line-bottom">Precio super bajo.  </span><i class="bi bi-cash-coin icon-medium text-base-color"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+<!-- end section -->
+<!-- start section -->
+<section class="py-0" style="margin-top: 80px;">
+            <div class="container">
+                <div class="row justify-content-center align-items-center mb-40px md-mb-30px">
+                    <div class="col text-center" data-anime='{ "translateY": [50, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
+                        <h3 class="alt-font fw-500 text-dark-gray ls-minus-1px shadow-none" data-shadow-animation="true" data-animation-delay="700">Nuestro servicio incluye <span class="fw-700 text-highlight d-inline-block">Sin costo<span class="bg-base-color h-10px bottom-1px opacity-3 separator-animation"></span></span> para usted</h3>
+						 <div class="feature-box-content last-paragraph-no-margin">
+                                        Sea para vender o rentar
+                                    </div>
+                    </div>
+                </div>
+                <div class="row g-0 row-cols-1 row-cols-lg-4 row-cols-sm-2 justify-content-center" data-anime='{ "el": "childs", "translateX": [50, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
+                    <!-- start features box item -->
+                    <div class="col icon-with-text-style-10 transition-inner-all md-mb-50px sm-mb-30px">
+                        <div class="feature-box text-center border-end xs-border-end-0 border-color-extra-medium-gray">
+                            <div class="feature-box-icon feature-box-icon-rounded w-100px h-100px rounded-circle mb-15px">
+                                <i class="bi bi-shield-check icon-large text-dark-gray"></i>
+                            </div>
+                            <div class="feature-box-content last-paragraph-no-margin">
+                                <span class="alt-font fw-600 text-dark-gray fs-19 d-inline-block mb-5px">Asesoría Integral</span>
+                                <p class="w-80 md-w-70 mx-auto">La seguridad ante todo, lo acompañamos hasta que le paguen.</p>
+                            </div>                        
+                        </div>
+                    </div>
+                    <!-- end features box item -->
+                    <!-- start features box item -->
+                    <div class="col icon-with-text-style-10 transition-inner-all md-mb-50px sm-mb-30px">
+                        <div class="feature-box text-center border-end md-border-end-0 border-color-extra-medium-gray">
+                            <div class="feature-box-icon feature-box-icon-rounded w-100px h-100px rounded-circle mb-15px">
+                                <i class="bi bi-camera icon-large text-dark-gray"></i>
+                            </div>
+                            <div class="feature-box-content last-paragraph-no-margin">
+                                <span class="alt-font fw-600 text-dark-gray fs-19 d-inline-block mb-5px">Foto & Video</span>
+                                <p class="w-80 md-w-70 mx-auto">Según las tendencias de los compradores. Incluimos campañas en Redes.</p>
+                            </div>                        
+                        </div>
+                    </div>
+                    <!-- end features box item -->
+                    <!-- start features box item -->
+                    <div class="col icon-with-text-style-10 transition-inner-all xs-mb-30px">
+                        <div class="feature-box text-center border-end xs-border-end-0 border-color-extra-medium-gray">
+                            <div class="feature-box-icon feature-box-icon-rounded w-100px h-100px rounded-circle mb-15px">
+                                <i class="bi bi-key icon-large text-dark-gray"></i>
+                            </div>
+                            <div class="feature-box-content last-paragraph-no-margin">
+                                <span class="alt-font fw-600 text-dark-gray fs-19 d-inline-block mb-5px">Visitas</span>
+                                <p class="w-80 md-w-70 mx-auto">Todas las visitas necesarias hasta encontrar al <strong>cliente ideal</strong>.</p>
+                            </div>                        
+                        </div>
+                    </div>
+                    <!-- end features box item -->
+                    <!-- start features box item -->
+                    <div class="col icon-with-text-style-10 transition-inner-all">
+                        <div class="feature-box text-center">
+                            <div class="feature-box-icon feature-box-icon-rounded w-100px h-100px rounded-circle mb-15px">
+                                <i class="bi bi-currency-dollar icon-large text-dark-gray"></i>
+                            </div>
+                            <div class="feature-box-content last-paragraph-no-margin">
+                                <span class="d-inline-block alt-font fw-600 text-dark-gray fs-19 d-inline-block mb-5px">Opinión de Valor</span>
+                                <p class="w-80 md-w-70 mx-auto">Asegure que su propiedad está en el precio correcto según el mercado y posibles avalúos.</p>
+                            </div>                        
+                        </div>
+                    </div>
+                    <!-- end features box item -->
+                </div>
+                <div class="row justify-content-center mt-6 sm-mt-50px">
+                    <div class="col-auto icon-with-text-style-08">
+                        <div class="feature-box feature-box-left-icon-middle">
+                            <div class="feature-box-icon me-15px">
+                                <i class="bi bi-patch-check icon-medium text-base-color"></i>
+                            </div>
+							<div class="feature-box-content alt-font text-dark-gray fs-22 fw-600">
+                               Publicamos su propiedad en los portales de paga más visitados y en nuestro sitio con <span class="text-decoration-line-bottom"> miles de visitas mensuales.</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+<!-- end section -->
+<!-- start section -->
+<section class="bg-very-light-gray overflow-hidden">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-xl-4 col-lg-5 md-mb-30px" data-anime='{ "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
+                <span class="fs-20 d-inline-block mb-15px text-base-color">También</span>
+                <h2 class="alt-font fw-500 text-dark-gray ls-minus-1px shadow-none" data-shadow-animation="true" data-animation-delay="700">Tenemos algunos <span class="fw-700 text-highlight d-inline-block">Proyectos Muy Interesantes<span class="bg-base-color h-10px bottom-10px opacity-3 separator-animation"></span></span></h2>
+                <p class="w-90 lg-w-100 mb-20px">Oportunidades de inversión que ya han sido verificadas y cuentan con la calidad y seguridad que nuestros clientes merecen.<br><span class="fw-600 text-dark-gray">Hemos rechazado muchos desarrollos porque les falta “sólo un papel”.</span></p>
+                <div class="d-flex mb-20px">
+                    <div class="proyectos-prev swiper-button-prev slider-navigation-style-04 bg-white box-shadow-large"><i class="fa-solid fa-arrow-left icon-small text-dark-gray"></i></div>
+                    <div class="proyectos-next swiper-button-next slider-navigation-style-04 bg-white box-shadow-large"><i class="fa-solid fa-arrow-right icon-small text-dark-gray"></i></div>
+                </div>
+                <a href="../inversiones-inmobiliarias-pachuca.html" class="btn btn-guinda btn-medium btn-round-edge">Ver todas las inversiones</a>
+            </div>
+            <div class="col-xl-8 col-lg-7">
+                <div class="outside-box-right-20 sm-outside-box-right-0">
+                    <div class="swiper magic-cursor" data-slider-options='{ "slidesPerView": 1.15, "spaceBetween": 16, "loop": false, "autoplay": { "delay": 4500, "disableOnInteraction": false }, "navigation": { "nextEl": ".proyectos-next", "prevEl": ".proyectos-prev" }, "keyboard": { "enabled": true, "onlyInViewport": true }, "breakpoints": { "1200": { "slidesPerView": 3, "spaceBetween": 24 }, "768": { "slidesPerView": 2.1, "spaceBetween": 20 }, "320": { "slidesPerView": 1.15 } }, "effect": "slide" }'>
+                        <div class="swiper-wrapper">
+<!-- TemplateBeginRepeat name="proyectos" -->
+                            <div class="swiper-slide">
+                                <div class="proyecto-tarjeta">
+                                    <!-- TemplateBeginEditable name="p_foto" --><img class="foto" src="../img/inversiones/mineral-del-monte.jpg" alt="Mineral del Monte, Hgo." loading="lazy"><!-- TemplateEndEditable -->
+                                    <div class="velo"></div>
+                                    <div class="etiqueta"><!-- TemplateBeginEditable name="p_etiqueta" --><i class="fa-solid fa-tree"></i>Bosque<!-- TemplateEndEditable --></div>
+                                    <div class="info">
+                                        <!-- TemplateBeginEditable name="p_titulo" --><a href="../inversiones-bosque-huasca-pachuca.html" class="nombre">Mineral del Monte, Hgo.</a><!-- TemplateEndEditable -->
+                                        <span class="mensual"><!-- TemplateBeginEditable name="p_mensualidad" -->Mensualidades desde:<br>$29,167.-<!-- TemplateEndEditable --></span>
+                                        <div class="mt-15px"><!-- TemplateBeginEditable name="p_boton" --><a href="../inversiones-bosque-huasca-pachuca.html" class="btn btn-light-base-color btn-small btn-round-edge btn-box-shadow">Saber Más<i class="feather icon-feather-arrow-right icon-very-small"></i></a><!-- TemplateEndEditable --></div>
+                                    </div>
+                                </div>
+                            </div>
+<!-- TemplateEndRepeat -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- end section --><!-- start section -->
+<section class="position-relative overflow-hidden">
+    <div class="container">
+        <div class="row align-items-center justify-content-center">
+            <div class="col-lg-5 col-md-8 text-center md-mb-40px" data-anime='{ "effect": "slide", "color": "#262b35", "direction":"lr", "easing": "easeOutQuad", "delay":50 }'>
+                <figure class="position-relative m-0">
+                    <img src="../img/nosotros/oficina-logo.jpg" width="960" height="720" class="w-100 border-radius-10px" alt="Inmobiliaria Patricia de Butrón" loading="lazy">
+                    <figcaption class="position-absolute bg-base-color border-radius-8px text-center text-white box-shadow-medium animation-float" style="right: 16px; bottom: 16px; padding: 12px 22px;">
+                        <span class="alt-font fs-30 fw-700 d-block lh-1">Desde 1994</span>
+                        <span class="fs-14 d-block mt-5px">a su servicio</span>
+                    </figcaption>
+                </figure>
+            </div>
+            <div class="col-lg-6 offset-lg-1 col-md-10 text-center text-lg-start" data-anime='{ "opacity": [0,1], "duration": 600, "delay": 100, "staggervalue": 300, "easing": "easeOutQuad" }'>
+                <span class="fs-20 d-inline-block mb-15px text-base-color">Opiniones de clientes</span>
+                <h2 class="alt-font fw-500 text-dark-gray ls-minus-1px shadow-none" data-shadow-animation="true" data-animation-delay="700">Nuestros <span class="fw-700 text-highlight d-inline-block">clientes<span class="bg-base-color h-10px bottom-10px opacity-3 separator-animation"></span></span> nos dicen:</h2>
+                <div class="swiper position-relative" data-slider-options='{ "autoHeight": true, "loop": true, "allowTouchMove": true, "autoplay": { "delay": 5000, "disableOnInteraction": false }, "navigation": { "nextEl": ".opiniones-next", "prevEl": ".opiniones-prev" }, "effect": "fade" }'>
+                    <div class="swiper-wrapper mb-30px">
+<!-- TemplateBeginRepeat name="testimonios" -->
+                        <div class="swiper-slide review-style-08">
+                            <p class="w-90 lg-w-100"><!-- TemplateBeginEditable name="t_texto" -->Nos explicaron cómo fijar el precio y nos mantuvieron informados después de cada visita. Vendimos con tranquilidad y sin sorpresas.<!-- TemplateEndEditable --></p>
+                            <div class="mt-20px opinion-persona"><!-- TemplateBeginEditable name="t_persona" --><span class="avatar-iniciales">LM</span><div class="text-start"><div class="text-dark-gray alt-font nombre"><span class="fw-700">Laura</span> M.</div><span class="rol">Propietaria · Pachuca</span><div class="review-star-icon fs-16"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div></div><!-- TemplateEndEditable --></div>
+                        </div>
+<!-- TemplateEndRepeat -->
+                    </div>
+                    <div class="d-flex justify-content-center justify-content-lg-start">
+                        <div class="opiniones-prev swiper-button-prev slider-navigation-style-04 border border-color-extra-medium-gray"><i class="fa-solid fa-arrow-left icon-small text-dark-gray"></i></div>
+                        <div class="opiniones-next swiper-button-next slider-navigation-style-04 border border-color-extra-medium-gray"><i class="fa-solid fa-arrow-right icon-small text-dark-gray"></i></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- end section --><!-- start section -->
+<section class="bg-gradient-very-light-gray">
+    <div class="container">
+        <div class="row mb-3"><div class="col-12 text-center" data-anime='{ "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
+            <span class="fs-20 d-inline-block mb-10px text-base-color">Blog</span><br>
+            <h2 class="alt-font fw-500 text-dark-gray ls-minus-1px shadow-none text-center" data-shadow-animation="true" data-animation-delay="700">Consejos para <span class="fw-700 text-highlight d-inline-block">vender, rentar<span class="bg-base-color h-10px bottom-10px opacity-3 separator-animation"></span></span> e invertir</h2>
+        </div></div>
+        <div class="row row-cols-1 row-cols-md-2 row-cols-xl-3 justify-content-center blog-grid" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
+<!-- TemplateBeginRepeat name="entradas_inicio" -->
+                    <div class="col mb-30px">
+                        <article class="tarjeta-blog">
+                            <div class="portada"><!-- TemplateBeginEditable name="i_e_imagen" --><a href="#"><img src="../img/blog/valor-de-tu-casa.jpg" alt="Título de la publicación" width="1200" height="800" loading="lazy"></a><!-- TemplateEndEditable --></div>
+                            <div class="cuerpo">
+                                <div class="meta"><span class="cat"><!-- TemplateBeginEditable name="i_e_categoria" -->Categoría<!-- TemplateEndEditable --></span> · <!-- TemplateBeginEditable name="i_e_fecha" -->1 de enero de 2026<!-- TemplateEndEditable --></div>
+                                <h3><!-- TemplateBeginEditable name="i_e_titulo" --><a href="#">Título de la publicación</a><!-- TemplateEndEditable --></h3>
+                                <p class="extracto"><!-- TemplateBeginEditable name="i_e_extracto" -->Escriba aquí un resumen breve de la publicación (dos líneas).<!-- TemplateEndEditable --></p>
+                                <div><!-- TemplateBeginEditable name="i_e_enlace" --><a href="#" class="btn btn-link btn-hover-animation-switch btn-medium text-dark-gray p-0"><span><span class="btn-text">Leer artículo</span><span class="btn-icon"><i class="feather icon-feather-arrow-right"></i></span><span class="btn-icon"><i class="feather icon-feather-arrow-right"></i></span></span></a><!-- TemplateEndEditable --></div>
+                            </div>
+                        </article>
+                    </div>
+<!-- TemplateEndRepeat -->
+        </div>
+        <div class="row"><div class="col-12 text-center mt-10px" data-anime='{ "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'><a href="../blog-inmobiliaria-pachuca.html" class="btn btn-guinda btn-medium btn-round-edge">Ver todas las publicaciones</a></div></div>
+    </div>
+</section>
+<!-- end section -->
+		
+        <!-- start footer -->
+        <footer style="padding-top: 0px;" class="footer-light bg-gradient-very-light-gray pb-0">
+            <div class="container position-relative pb-3 md-mb-15px">
+                
+                <div style="margin-top: 0px;" class="row justify-content-center mb-4 sm-mb-35px">
+                    <div style="margin-top: 0px;" class="row justify-content-center mt-5 mb-4 sm-mb-35px">
+                    <!-- start footer column -->
+                    <div style="margin-top: 0px;" class="col-lg-3 last-paragraph-no-margin md-mb-35px text-center text-lg-start">
+                        <a href="../index.html" class=" "><img src="../images/demo-real-estate-logo-black.png" alt="" width="150" height="71" data-at2x="images/demo-real-estate-logo-black.png"></a>
+                      <p class="w-85 lg-w-100">Expertos en Venta, Renta y Administración Profesional de Inmuebles <strong>por más de 30 Años!</strong>.</p>
+                        <div class="elements-social social-icon-style-02 mt-15px">
+                            <ul class="small-icon dark">
+                                <li><a class="facebook" href="https://www.facebook.com/sipachuca" target="_blank"><i class="fa-brands fa-facebook-f"></i></a></li>
+                                <li><a class="dribbble" href="https://www.instagram.com/patricia_de_butron" target="_blank"><i class="fa-brands fa-instagram"></i></a></li> 
+                                <li><a class="twitter" href="https://www.tiktok.com/@inmo_patriciadebutron" target="_blank"><i class="fa-brands fa-tiktok"></i></a></li> 
+                                <li><a class="instagram" href="https://g.page/r/CarqCd7CVEAwEAI/review" target="_blank"><i class="fa-brands fa-google"></i></a></li> 
+                          </ul>
+                      </div>
+                    </div>
+                    <!-- end footer column -->
+                    <!-- start footer column -->
+                    <div class="col-6 col-lg-2 col-md-3 sm-mb-25px">
+                        <span class="alt-font fs-18 fw-600 d-block text-dark-gray mb-5px">Nosotros</span>
+                        <ul>
+                            <li><a href="../quienes-somos-inmobiliaria-pachuca.html">Quienes Somos</a></li>                            <li><a href="../nuestro-equipo-inmobiliaria-pachuca.html">Nuestro Equipo</a></li>                            <li><a href="../servicios-inmobiliarios-pachuca.html">Servicios</a></li>                            <li><a href="../alianzas-inmobiliarias-pachuca.html">Alianzas</a></li>							<li><a href="../ampi-pachuca.html">AMPI</a></li>
+                                <li><a href="../blog-inmobiliaria-pachuca.html">Blog</a></li>                        </ul>
+                    </div>
+                    <!-- end footer column -->
+                    <!-- start footer column -->
+                    <div class="col-6 col-lg-2 col-md-3 sm-mb-25px">
+                        <span class="alt-font fs-18 fw-600 d-block text-dark-gray mb-5px">Propiedades</span>
+                        <ul>
+                            <li><a href="../renta-casas-pachuca.html">Casas en Renta</a></li>                            <li><a href="../renta-locales-oficinas-pachuca.html">Comerciales en Renta</a></li>                            <li><a href="../venta-casas-pachuca.html">Casas en Venta</a></li>                            <li><a href="../venta-terrenos-pachuca.html">Terrenos en Venta</a></li>							<li><a href="../propiedades-comerciales-en-venta-pachuca.html">Comerciales en Venta</a></li>                        </ul>
+                    </div>
+                    <!-- end footer column -->
+                    <!-- start footer column -->
+                    <div class="col-6 col-lg-2 col-md-3">
+                        <span class="alt-font fs-18 fw-600 d-block text-dark-gray mb-5px">Inversiones</span>
+                        <ul>                           
+                            <li><a href="../inversiones-yucatan-playa-pachuca.html">Yucatán</a></li>                            <li><a href="../inversiones-bosque-huasca-pachuca.html">Bosque (Hidalgo)</a></li>
+                                <li><a href="../inversiones-miami-preventa-pachuca.html">Miami</a></li>
+                                <li><a href="../inversiones-a-credito-pachuca.html">A crédito</a></li>                                                                                </ul>
+                    </div>
+                    <!-- end footer column -->
+                    <!-- start footer column -->
+                    <div class="col-6 col-lg-2 col-md-3">
+                        <span class="alt-font fs-18 fw-600 d-block text-dark-gray mb-10px">Contáctenos</span>
+                        <span class="d-block lh-normal">Ventas:</span>
+                        <a href="tel:7717120650" class="text-dark-gray text-decoration-line-bottom lh-22 d-inline-block">771 712 0650</a><a href="https://wa.me/527717120650?text=hola%20estoy%20viendo%20su%20página" target="_blank" class="btn btn-small btn-rounded with-rounded btn-dark-gray d-table d-lg-inline-block lg-mb-15px md-mx-auto">Ventas<span class="bg-base-color text-white"><i class="fa-brands fa-whatsapp"></i></span></a>
+
+                        <br><br>
+
+<span class="d-block lh-normal">Administración:</span>
+                        <a href="tel:7711100285" class="text-dark-gray text-decoration-line-bottom lh-22 d-inline-block">771 110 0285</a><a href="https://wa.me/527711100285?text=hola%20estoy%20en%20su%20página" target="_blank" class="btn btn-small btn-rounded with-rounded btn-dark-gray d-table d-lg-inline-block lg-mb-15px md-mx-auto">Admon<span class="bg-base-color text-white"><i class="fa-brands fa-whatsapp"></i></span></a>
+                    </div>
+                    <!-- end footer column -->                     
+                </div>
+				<div class="row justify-content-center mt-5 mb-4 footer-afiliaciones">
+                        <div class="col-4 col-lg-3 text-center last-paragraph-no-margin">
+                            <img src="../img/nosotros/realtor.png" alt="REALTOR" width="120" height="138" loading="lazy">
+                            <p class="mt-10px fs-14">Certificado por la National Association of Realtors</p>
+                        </div>
+                        <div class="col-4 col-lg-3 text-center last-paragraph-no-margin">
+                            <img src="../img/nosotros/bni.png" alt="BNI" width="140" height="58" loading="lazy">
+                            <p class="mt-10px fs-14">Socio BNI: la red de negocios más grande de México</p>
+                        </div>
+                        <div class="col-4 col-lg-3 text-center last-paragraph-no-margin">
+                            <img src="../img/nosotros/ampi.png" alt="AMPI" width="120" height="117" loading="lazy">
+                            <p class="mt-10px fs-14">Afiliado a la Asociación Mexicana de Profesionales Inmobiliarios</p>
+                        </div>
+                    </div>
+                    <!-- start footer content -->
+                <div class="border-top border-color-extra-medium-gray pt-35px pb-35px text-center">
+                    <span class="fs-13 w-60 lg-w-70 md-w-90 sm-w-100 d-block mx-auto lh-22"><a href="../aviso-privacidad.html" class="text-dark-gray text-decoration-line-bottom">Vea nuestro aviso de privacidad (Inmobiliaria Patricia de Butrón)</a><br>
+Este sitio está protegido por reCAPTCHA y se aplican la <a href="https://policies.google.com/privacy" target="_blank" rel="noopener" class="text-dark-gray text-decoration-line-bottom">Política de privacidad</a> y los <a href="https://policies.google.com/terms" target="_blank" rel="noopener" class="text-dark-gray text-decoration-line-bottom">Términos del servicio</a> de Google.</span>
+                </div>
+                <!-- end footer content -->
+            </div> 
+            </div>
+        </footer>
+        <!-- end footer aquí va el popup  -->
+
+        <!-- start scroll progress -->
+        <div class="scroll-progress d-none d-xxl-block">
+            <a href="#" class="scroll-top" aria-label="scroll">
+                <span class="scroll-text">Scroll</span><span class="scroll-line"><span class="scroll-point"></span></span>
+            </a>
+        </div>
+        <!-- end scroll progress -->
+		
+        <!-- javascript libraries -->
+        <script type="text/javascript" src="../js/jquery.js"></script>
+        <script type="text/javascript" src="../js/vendors.min.js"></script>
+        <script>
+/* Inicio: la "propiedad destacada" muestra al azar hasta 6 propiedades del catálogo en cada visita (data-max) */
+(function () {
+    var wrapper = document.querySelector('.banner-destacada .swiper-wrapper');
+    if (!wrapper) { return; }
+    var slides = [], i, j, t;
+    for (i = 0; i < wrapper.children.length; i++) { if (wrapper.children[i].className.indexOf('swiper-slide') > -1) { slides.push(wrapper.children[i]); } }
+    for (i = slides.length - 1; i > 0; i--) { j = Math.floor(Math.random() * (i + 1)); t = slides[i]; slides[i] = slides[j]; slides[j] = t; }
+    var max = parseInt(wrapper.getAttribute('data-max'), 10) || 6;
+    for (i = 0; i < slides.length; i++) { if (i < max) { wrapper.appendChild(slides[i]); } else { wrapper.removeChild(slides[i]); } }
+})();
+</script>
+<script type="text/javascript" src="../js/main.js"></script>
+    <script type="text/javascript" src="../js/sitio.js"></script>
+    </body>
+</html>
